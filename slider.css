@@ -159,7 +159,7 @@ NOW PLAYING BAR
 .progress-bar {
   --bg-color: rgba(255,555,255,.2);
   --fg-color: #FFFFFF;
-  --is-active-fg-color: #FFFFFFF;
+  --is-active-fg-color: #FFFFFF;
 }
 
 .progress-bar__slider {
